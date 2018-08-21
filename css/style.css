@@ -248,3 +248,20 @@ padding: 0px;
 .col-md-4 .border-dash{
     height: 86vh;
 }
+
+.border-dash-1 {
+    background-color: #262e31;
+    padding: 7px;
+}
+
+.p-40{
+    padding: 40px;
+}
+
+.sidebar-vh{
+    height: 90vh;
+    background-color: #262e31;
+}
+
+.sidebar-vh h5{
+    padding-bottom: 15px;
