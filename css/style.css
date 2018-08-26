@@ -302,3 +302,8 @@ padding: 25px;
 .forget-pass a {
     color: #fff;
 }
+
+
+.m25-auto {
+    margin: 25px auto;
+}
