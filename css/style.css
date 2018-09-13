@@ -311,3 +311,7 @@ padding: 25px;
 .light-grey{
     background-color: #2d363c;
 }
+
+.m-5-sides {
+    margin: 0 5px;
+}
