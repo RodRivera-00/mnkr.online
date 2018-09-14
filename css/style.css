@@ -89,6 +89,7 @@ padding: 0px;
     height: 100px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
+/*    margin: auto 15px;*/
 }
 .coin-large {
     width: 100%;
@@ -113,7 +114,7 @@ padding: 0px;
     margin-bottom: 0;
 }
 .host-box {
-    margin: 30px 0;
+    margin: 30px 15px;
 }
 
 .h6-price {
@@ -228,12 +229,12 @@ padding: 0px;
     margin: 0;
 }
 
-.row .text-center .col-md-4 p{
+/*.row .text-center .col-md-4 p{
     border: 1px solid #ffffff26;
     padding: 5px;
     margin: 0;
 }
-
+*/
 .row .text-center .col-md-4{
     padding: 0;
 }
@@ -273,6 +274,12 @@ padding: 25px;
     padding: 20px 30px;
     background-color: #262e31;  
 }
+
+.assets-box-noborder{
+    padding: 20px 30px;
+    background-color: #262e31;  
+}
+
 .wallet-box{
     padding: 15px;
     margin: -1px 0px;
@@ -314,4 +321,39 @@ padding: 25px;
 
 .m-5-sides {
     margin: 0 5px;
+}
+
+.vol-price{
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.h6-vol {
+    font-size: 10px;
+    margin-bottom: 9px;
+}
+
+.vol {
+    margin: 10px;
+}
+
+.content-box {
+    background-color: #262e31;
+    border-radius: 10px;
+    border: 1px solid #ffffff6e;
+    margin: 20px 5px;
+    padding: 20px;
+}
+
+.vol-price-bg{
+    font-size: 12px;
+    font-weight: 600;
+    border-radius: 5px;
+    border: 1px solid #ffffff6e;    
+    padding: 5px 0;
+}
+
+.h6-vol-monthly {
+    font-size: 10px;
+    margin-bottom: 2px;
 }
