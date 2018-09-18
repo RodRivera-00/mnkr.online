@@ -1,6 +1,6 @@
 *{
-	margin: 0;
-	padding: 0;
+    margin: 0;
+    padding: 0;
 }
 
 body {
@@ -22,16 +22,16 @@ body {
     z-index: 1;
 }
 .landing-1 {
-	align-items: center;
-	display: flex;
-	height: 93vh;
+    align-items: center;
+    display: flex;
+    height: 93vh;
     background: linear-gradient(#262e31 0%, rgba(32,54,59,0.5) 0%),url(images/bg.jpg) no-repeat center;
     background-size: cover;
 }
 .landing-2 {
-	height: 100vh;
+    height: 100vh;
     background-color: #2d363c;
-    background-size: cover;	
+    background-size: cover; 
 }
 .top {
     padding-top: 20px;
@@ -47,8 +47,8 @@ body {
 }
 
 .logo-big {
-	font-size: 120px;
-	line-height: 0.8em;
+    font-size: 120px;
+    line-height: 0.8em;
     font-family: 'Roboto Black', sans-serif;
     font-weight: 700;
 }
@@ -451,4 +451,34 @@ padding: 0px;
 
 .ft-weight-600 {
     font-weight: 600;
+}
+
+.logo-large {
+    width: 100%;
+    max-width: 100px;
+    margin: 25px auto;
+}
+
+.chain-logo {
+    width: 100%;
+    max-width: 50%;
+    margin: 9px 40px;
+}
+
+.select-ver-sm {
+    font-size: 11px;
+}
+
+.logo-sm-font{
+    font-size: 12px;
+    font-weight: 600;
+    margin: 10px 0;
+}
+
+.coin-logo-box {
+    background-color: #2d363c;
+    border-radius: 10px;
+    border: 1px solid #ffffff6e;
+    margin: 20px 5px;
+    padding: 20px;
 }
