@@ -216,6 +216,19 @@ padding: 0px;
     padding: 7px;    
 }
 
+.border-dash-2 {
+    border: 1px solid #ffffff1f;
+    background-color: #262e31;
+    padding: 20px 5px;
+    align-items: center;
+    text-align: center;
+}
+
+.logo-dash-big {
+    width: 80%;
+    max-width: 120px;
+}
+
 .row .border-dash-1 .col-md-3 p{
     margin-bottom: 0;
 }
@@ -240,7 +253,7 @@ padding: 0px;
 }
 
 .col-md-4 .border-dash{
-    height: 86vh;
+    height: 90vh;
 }
 
 .p-40{
@@ -481,4 +494,8 @@ padding: 0px;
     border: 1px solid #ffffff6e;
     margin: 20px 5px;
     padding: 20px;
+}
+
+.border-dash-2 .col-md-3 p {
+    margin-bottom: 0;
 }
