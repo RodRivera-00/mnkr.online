@@ -269,7 +269,8 @@ padding: 0px;
 }
 
 .sidebar-vh h5{
-    padding-bottom: 15px;
+    padding: 30px;
+    text-align: center;
 }
 
 .radio-btn {
@@ -498,4 +499,97 @@ padding: 0px;
 
 .border-dash-2 .col-md-3 p {
     margin-bottom: 0;
+}
+
+.center-4sides {
+    text-align: center;
+    align-items: center;
+    padding: 15px;
+}
+
+.logo-share {
+    font-size: 12px;
+    font-weight: 600;
+    padding-left: 10px;
+    margin-bottom: 0;
+}
+
+.center-small{
+    height: 25%;
+    width: 25%;
+}
+.share-dash-1 {
+    border: 1px solid #ffffff1f;
+    background-color: #2d363c;
+    padding: 0 15px;
+}
+
+.share-gtm{
+    font-weight: 600;
+    text-align: right;
+}
+
+.share-required {
+    text-align: center;
+    align-items: center;
+    padding: 0 15px;
+}
+
+.share-margin-0 {
+    margin-bottom: 0px;
+    text-align: left;
+}
+
+.share-comment {
+    text-align: center;
+    align-items: center;
+    padding: 30px 15px;    
+
+}
+
+.share-masternode {
+    text-align: center;
+    padding: 30px 15px; 
+    background-color: #343a40;       
+
+}
+
+.share-mastervalue {
+    text-align: center;
+    padding: 0px 15px;    
+    background-color: #343a40;      
+    font-weight: 600;    
+}
+
+.btn-width {
+    width: 75%;
+}
+
+.share-progress {
+    text-align: center;
+    padding: 2px 15px;
+    background-color: #343a40;
+}
+
+.p-bot-20 {
+    padding-bottom: 20px;
+}
+
+.icon-small{
+    width: 23px;
+    height: 23px;
+}
+
+.share-icon {
+    text-align: center;
+    align-items: center;
+}
+
+.more-icons {
+    font-size: 12px;
+    font-weight: 600;
+    border-radius: 5px;
+    border: 1px solid #ffffff6e;
+    padding: 5px;
+    background-color: #2d363c;
 }
